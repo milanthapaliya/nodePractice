@@ -10,10 +10,10 @@
   },
   "author": "Milan_Thapaliya",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  },
   "dependencies": {
     "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
